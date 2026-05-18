@@ -19,3 +19,6 @@ knowledge/
 # OS system files
 .DS_Store
 Thumbs.db
+
+# Exceptions
+!requirements.txt
