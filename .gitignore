@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit logs and cache
+.streamlit/
+
+# Local model developer logs and temp artifacts
+.gemini/
+brain/
+knowledge/
+.tempmediaStorage/
+*.webp
+*.png
+*.txt
+
+# OS system files
+.DS_Store
+Thumbs.db
